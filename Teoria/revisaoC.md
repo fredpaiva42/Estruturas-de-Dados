@@ -18,7 +18,7 @@ int *p;
 - ``Endereço de``
 - Aplicado a uma variável x, resulta no ``endereço da posição de memória`` reservada para a variável x.
 
-#### Operador Unário *
+### Operador Unário *
 - ``Conteúdo do endereço apontado por``
 - Aplicado a variavéis do tipo ponteiro, acessa o ``conteúdo do endereço de memória`` armazenado pela variável ponteiro.
 
