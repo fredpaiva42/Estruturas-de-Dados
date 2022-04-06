@@ -41,8 +41,8 @@
 //        printf(" %d", p ->info);
 //}
 //
-//int listaSimples (void) {
-//    Tlista* L = NULL;
+//int main (void) {
+//    Tlista* L = cria_lista();
 //    int entrada, tamanhoLista, escolha;
 //
 //    printf("\nDigite a quantidade de elementos para inserir:");
