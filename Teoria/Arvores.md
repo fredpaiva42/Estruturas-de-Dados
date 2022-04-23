@@ -42,6 +42,7 @@ Cada nó pode ser associado a um identificador, denominado **rótulo**.
 
 ### Grau de um nó
 Grau (ou grau de saída) de um nó é a sua quantidade de filhos
+
 ![img.png](../img/Arvores/Grau%20de%20um%20nó.png)
 
 ### Nível de um nó
@@ -54,10 +55,12 @@ A altura de um nó *v* é o número de nós do maior caminho de _v_ até um de s
 
 ### Caminho
 Um **caminho** é uma sequência de nós **consecutivo distintos** entre dois nós
+
 ![img.png](../img/Arvores/Caminho.png)
 
 ### Comprimento do Caminho (K - 1)
 É o número de ligações entre os nós do caminho
+
 ![img.png](../img/Arvores/Comprimento%20do%20Caminho.png)
 
 ### Altura dá árvore
@@ -66,6 +69,7 @@ Um **caminho** é uma sequência de nós **consecutivo distintos** entre dois n�
 
 ### Altura vs Nível
 Eles são inversas.
+
 ![img.png](../img/Arvores/Altura%20vs%20Nível.png)
 
 ### Árvore ordenada
