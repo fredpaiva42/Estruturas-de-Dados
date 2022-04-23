@@ -7,12 +7,12 @@ São formadas por um cojunto de nés que possuem relacionamento de **Hierarquia*
 
 ## Exemplos de Aplicação
 - Sistema de arquivos
-![img.png](../img/Arvores/Sistemas de Arquivo.png)
+![img.png](../img/Arvores/Sistemas%20de%20Arquivo.png)
 - Árvore de decisão para jogar tênis
-![img.png](../img/Arvores/Árvore de decisão.png)
+![img.png](../img/Arvores/Árvore%20de%20decisão.png)
 - Árvore de derivação
   - Usada pelos compiladores
-![img.png](../img/Arvores/Árvore de derivação.png)
+![img.png](../img/Arvores/Árvore%20de%20derivação.png)
 
 ## Definição formal
 Uma *árvore enraizada T*, ou simplesmente *árvore* é um conjunto finito de zero, ou mais **nós** (**nodos** ou **vértices**), tais que:
@@ -23,7 +23,7 @@ Se o número de nós é igual a zero:
 Se o número de nós é maior que zero:
 - existe um nó denominado **raiz** *T(r(T))* da árvore
 - os demais nós formam um único conjunto vazio ou são divididos em **m >= 1** conjuntos disjuntos **S1**, **S2**, ..., **Sm**, onde cada um destes é uma árvore (**Si** são denominados **sub-árvores** de _r(T)_)
-![img.png](../img/Arvores/Subárvores são árvores.png)
+![img.png](../img/Arvores/Subárvores%20são%20árvores.png)
 
 Se _v_ é um nó de _T_, a notação _T(v)_ indica que a sub-árvore de _T_ com raiz _v_
 
@@ -39,7 +39,7 @@ Cada nó pode ser associado a um identificador, denominado **rótulo**.
 
 ### Grau de um nó
 Grau (ou grau de saída) de um nó é a sua quantidade de filhos
-![img.png](../img/Arvores/Grau de um nó.png)
+![img.png](../img/Arvores/Grau%20de%20um%20nó.png)
 
 ### Nível de um nó
 O nível de um nó _4_ é o número de nós do caminho da raiz (incluindo a raiz) até o nó _4_
@@ -63,7 +63,7 @@ Um **caminho** é uma sequência de nós **consecutivo distintos** entre dois n�
 
 ### Altura vs Nível
 Eles são inversas.
-![img.png](../img/Arvores/Altura vs Nível.png)
+![img.png](../img/Arvores/Altura%20vs%20Nível.png)
 
 ### Árvore ordenada
 Uma _árvore ordenada_ é aquela na qual os filhos de cada nó estão ordenados. Assume-se que tal ordenação se desenvolva da **esquerda para direita**. A ordem das sub-árvores é relevante.
