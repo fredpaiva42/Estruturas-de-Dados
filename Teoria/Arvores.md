@@ -7,11 +7,14 @@ São formadas por um cojunto de nés que possuem relacionamento de **Hierarquia*
 
 ## Exemplos de Aplicação
 - Sistema de arquivos
+
 ![img.png](../img/Arvores/Sistemas%20de%20Arquivo.png)
 - Árvore de decisão para jogar tênis
+
 ![img.png](../img/Arvores/Árvore%20de%20decisão.png)
 - Árvore de derivação
   - Usada pelos compiladores
+
 ![img.png](../img/Arvores/Árvore%20de%20derivação.png)
 
 ## Definição formal
