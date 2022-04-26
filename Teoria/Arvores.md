@@ -79,3 +79,12 @@ Uma _árvore ordenada_ é aquela na qual os filhos de cada nó estão ordenados.
 ### Árvore isomorfa
 Duas árvores não ordenadas são _isomorfas_ quando puderem se tornar **coincidentes através de permutação na ordem** das sub-árvores de seus nós. Por outro lado, duas árvores ordenadas são _isomorfas_ quando forem **coincidentes**, segundo a ordenação existente entre seus nós.
 ![img.png](../img/Arvores/Árvores%20isomorfas.png)
+
+### Formas de Reperesentação
+
+#### Diagrama de inclusão
+![img.png](../img/Arvores/Diagrama%20de%20Inclusão.png)
+#### Diagrama de barras
+![img.png](../img/Arvores/Diagrama%20de%20Barras.png)
+#### Níveis e Aninhamento
+![img.png](../img/Arvores/Níveis%20e%20Aninhamento.png)
